@@ -1,0 +1,4 @@
+HTTP/1.1 403
+Content-Type: application/json
+
+{"timestamp":"2026-04-05T08:31:17.624+00:00","status":403,"error":"Forbidden","path":"/api/admin/dashboard"}
